@@ -20,7 +20,7 @@ Quick reference for Stack Auth + TanStack Start integration issues.
 
 *Note: These are simplified examples. The actual code includes additional UI components, navigation, and features.*
 
-### Handler Route (`src/routes/handler.$.tsx`)
+### Handler Route ([src/routes/handler.$.tsx](src/routes/handler.%24.tsx))
 ```tsx
 import { StackHandler } from "@stackframe/react";
 import { stackClientApp } from "../stack";
@@ -48,7 +48,7 @@ export const Route = createFileRoute()({
 });
 ```
 
-### Root Route (`src/routes/__root.tsx`)
+### Root Route ([src/routes/__root.tsx](/src/routes/__root.tsx)
 ```tsx
 import { StackProvider, StackTheme } from "@stackframe/react";
 import { stackClientApp } from "../stack";

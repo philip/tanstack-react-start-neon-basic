@@ -14,8 +14,8 @@ A complete example showing how to integrate **Neon Auth** with **TanStack Start*
 
 1. **Clone and install:**
    ```bash
-   git clone <your-repo>
-   cd start-neon-basic
+   git clone git@github.com:philip/tanstack-react-start-neon-basic.git
+   cd tanstack-react-start-neon-basic
    npm install
    ```
 
@@ -34,7 +34,7 @@ A complete example showing how to integrate **Neon Auth** with **TanStack Start*
    ```
 
 3. **Get your Neon Auth credentials:**
-   - Create a Neon project at [neon.tech](https://neon.tech)
+   - Create a Neon project at [neon.com](https://neon.com)
    - Go to "Auth" section and get your credentials
    - Update `.env` with your actual values
 

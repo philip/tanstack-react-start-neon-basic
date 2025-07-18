@@ -1,5 +1,5 @@
 {
-  "name": "tanstack-start-example-neon-basic",
+  "name": "start-neon-basic",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite dev",
     "build": "vite build && tsc --noEmit",
-    "start": "vite start"
+    "start": "node .output/server/index.mjs"
   },
   "keywords": [],
   "author": "",
